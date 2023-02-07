@@ -6,3 +6,6 @@ header {
   font-family: Arial;
 }
 
+.column {
+  float: left;
+}
