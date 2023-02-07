@@ -6,10 +6,6 @@ header {
   font-family: Arial;
 }
 
-.row {
-  display: flex;
-}
-
 .column {
-  flex: 50%;
+float: left;
 }
