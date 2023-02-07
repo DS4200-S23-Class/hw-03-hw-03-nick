@@ -6,7 +6,10 @@ header {
   font-family: Arial;
 }
 
+.row {
+  display: flex;
+}
+
 .column {
-  float: center;
-  width: 50%;
+  flex: 50%;
 }
